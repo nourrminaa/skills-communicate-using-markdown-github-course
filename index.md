@@ -18,3 +18,7 @@ int main(void) {
     return 0;
 }
 ```
+# STEP 4: ADDING TASK LISTS
+- [X] TASK 1
+- [ ] TASK 2
+- [ ] TASK 3
